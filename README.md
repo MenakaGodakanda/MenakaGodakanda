@@ -8,7 +8,17 @@ I am a recent graduate with a profound interest in technology and dedication to 
 ## Skills
 | Skill          | Associated Project    |
 |----------------|-----------------------|
-| SIEM           | <a href="">Project</a>
+| Network Security Audit Tool | <a href="">Project</a> |
+| Intrusion Detection System (IDS) Implementation | <a href="">Project</a> |
+| Security Information and Event Management (SIEM) Setup | <a href="">Project</a> |
+| Firewall Rule Optimization | <a href="">Project</a> |
+| Network Traffic Analysis | <a href="">Project</a> |
+| Secure Configuration Baselines | <a href="">Project</a> |
+| Penetration Testing Lab | <a href="">Project</a> |
+| Security Awareness Training Materials | <a href="">Project</a> |
+| Encryption Implementation | <a href="">Project</a> |
+| Incident Response Plan Development | <a href="">Project</a> |
+| SIEM | <a href="">Project</a> |
 
 
 ## Tools
