@@ -12,7 +12,7 @@ I am a recent graduate with a profound interest in technology and dedication to 
 
 ## Certifications
 
-I am currently studying nad preparing for below certifications.
+I am currently studying and preparing for below certifications.
 <div>
   <img src="https://img.shields.io/badge/-CISSP-0052CC?&style-for-the-badge&logo=ISC2&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Security+-FF0000?&style-for-the-badge&logo=CompTIA&logoColor=white"/>
