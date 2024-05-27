@@ -8,7 +8,10 @@ I am a recent graduate with a profound interest in technology and dedication to 
 | Project Name          | Associated Skills    |
 |----------------|-----------------------|
 | <a href="https://github.com/MenakaGodakanda/network-tracking">Network Tracking</a> | <img src="https://img.shields.io/badge/-Wireshark-1679A?&style-for-the-badge&logo=Wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/-Python-0078D4?&style-for-the-badge&logo=Python&logoColor=white"/>|
+| <a href="https://github.com/MenakaGodakanda/Home-lab-active-directory">Active Directory Home Lab</a> | <img src="https://img.shields.io/badge/-Windows_Server-EF3B2D?&style-for-the-badge&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/-Powershell-777BB4?&style-for-the-badge&logo=Powershell&logoColor=white"/>|
 
+
+https://github.com/MenakaGodakanda/Home-lab-active-directory
 
 ## Certifications
 
