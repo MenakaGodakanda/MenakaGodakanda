@@ -12,6 +12,7 @@ I am a recent graduate with a profound interest in technology and dedication to 
 | <a href="https://github.com/MenakaGodakanda/TrafficLightController">Traffic Light Controller</a> | <img src="https://img.shields.io/badge/-C Programming-FF9900?&style-for-the-badge&logo=C&logoColor=white"/>|
 | <a href="https://github.com/MenakaGodakanda/PIDControllerProject">PID Controller Project</a> | <img src="https://img.shields.io/badge/-C++-005571?&style-for-the-badge&logo=cplusplus&logoColor=white"/>|
 | <a href="https://github.com/MenakaGodakanda/can_project">CAN Project</a> | <img src="https://img.shields.io/badge/-C Programming-FF9900?&style-for-the-badge&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/-C++-005571?&style-for-the-badge&logo=cplusplus&logoColor=white"/>|
+| <a href="https://github.com/MenakaGodakanda/dds_project">DDS Project</a> | <img src="https://img.shields.io/badge/-C++-005571?&style-for-the-badge&logo=cplusplus&logoColor=white"/>|
 
 ## Certifications
 
