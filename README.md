@@ -15,6 +15,7 @@ I am a recent graduate with a profound interest in technology and dedication to 
 | <a href="https://github.com/MenakaGodakanda/dds_project">DDS and SafeDDS Library</a> | <img src="https://img.shields.io/badge/-C++-005571?&style-for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/-DDS-0071BC?&style-for-the-badge&logo=iMessage&logoColor=white"/> <img src="https://img.shields.io/badge/-Safe DDS-FFCC00?&style-for-the-badge&logo=iMessage&logoColor=white"/>|
 | <a href="https://github.com/MenakaGodakanda/modbus-library">Modbus Library</a> | <img src="https://img.shields.io/badge/-C++-005571?&style-for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/-Modbus-00539F?&style-for-the-badge&logo=iMessage&logoColor=white"/>|
 | <a href="https://github.com/MenakaGodakanda/railway_signaling_system">Railway Signaling System</a> | <img src="https://img.shields.io/badge/-C++-005571?&style-for-the-badge&logo=cplusplus&logoColor=white"/>|
+| <a href="https://github.com/MenakaGodakanda/drive_by_wire">Drive By Wire System</a> | <img src="https://img.shields.io/badge/-C++-005571?&style-for-the-badge&logo=cplusplus&logoColor=white"/>|
 
 
 
