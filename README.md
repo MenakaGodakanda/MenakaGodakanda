@@ -17,7 +17,7 @@ I am a recent graduate with a profound interest in technology and dedication to 
 | <a href="https://github.com/MenakaGodakanda/railway_signaling_system">Railway Signaling System</a> | <img src="https://img.shields.io/badge/-C++-005571?&style-for-the-badge&logo=cplusplus&logoColor=white"/>|
 | <a href="https://github.com/MenakaGodakanda/drive_by_wire">Drive By Wire System</a> | <img src="https://img.shields.io/badge/-C++-005571?&style-for-the-badge&logo=cplusplus&logoColor=white"/>|
 | <a href="https://github.com/MenakaGodakanda/hyrail-plc-project">Hyrail PLC System</a> | <img src="https://img.shields.io/badge/-C Programming-FF9900?&style-for-the-badge&logo=C&logoColor=white"/>|
-| <a href="https://github.com/MenakaGodakanda/NetworkTrafficAnalysis">Network Traffic Analysis</a> | <img src="https://img.shields.io/badge/-Tshark-005F73?&style-for-the-badge&logo=Wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/-Zeek-9E2A2B?&style-for-the-badge&logo=Zeek&logoColor=white"/> <img src="https://img.shields.io/badge/-Python-3572A5?&style-for-the-badge&logo=Python&logoColor=white"/>|
+| <a href="https://github.com/MenakaGodakanda/NetworkTrafficAnalysis">Network Traffic Analysis</a> | <img src="https://img.shields.io/badge/-Tshark-005F73?&style-for-the-badge&logo=Wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/-Zeek-9E2A2B?&style-for-the-badge&logo=Zotero&logoColor=white"/> <img src="https://img.shields.io/badge/-Python-3572A5?&style-for-the-badge&logo=Python&logoColor=white"/>|
 
 
 
