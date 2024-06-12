@@ -7,7 +7,7 @@ I am a recent graduate with a profound interest in technology and dedication to 
 ## Projects
 | Project Name          | Associated Skills    |
 |----------------|-----------------------|
-| <a href="https://github.com/MenakaGodakanda/network-tracking">Network Tracking</a> | <img src="https://img.shields.io/badge/-Wireshark-1679A?&style-for-the-badge&logo=Wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/-Python-0078D4?&style-for-the-badge&logo=Python&logoColor=white"/>|
+| <a href="https://github.com/MenakaGodakanda/network-tracking">Network Tracking</a> | <img src="https://img.shields.io/badge/-Wireshark-0C4B33?&style-for-the-badge&logo=Wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/-Python-3572A5?&style-for-the-badge&logo=Python&logoColor=white"/>|
 | <a href="https://github.com/MenakaGodakanda/Home-lab-active-directory">Active Directory Home Lab</a> | <img src="https://img.shields.io/badge/-Oracle_Virtualbox-00A4EF?&style-for-the-badge&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/-Windows_Server-0078D7?&style-for-the-badge&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/-Powershell-5391FE?&style-for-the-badge&logo=Powershell&logoColor=white"/>|
 | <a href="https://github.com/MenakaGodakanda/TrafficLightController">Traffic Light Controller</a> | <img src="https://img.shields.io/badge/-C Programming-FF9900?&style-for-the-badge&logo=C&logoColor=white"/>|
 | <a href="https://github.com/MenakaGodakanda/PIDControllerProject">PID Controller Project</a> | <img src="https://img.shields.io/badge/-C++-005571?&style-for-the-badge&logo=cplusplus&logoColor=white"/>|
@@ -16,6 +16,8 @@ I am a recent graduate with a profound interest in technology and dedication to 
 | <a href="https://github.com/MenakaGodakanda/modbus-library">Modbus Library</a> | <img src="https://img.shields.io/badge/-C++-005571?&style-for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/-Modbus-00539F?&style-for-the-badge&logo=iMessage&logoColor=white"/>|
 | <a href="https://github.com/MenakaGodakanda/railway_signaling_system">Railway Signaling System</a> | <img src="https://img.shields.io/badge/-C++-005571?&style-for-the-badge&logo=cplusplus&logoColor=white"/>|
 | <a href="https://github.com/MenakaGodakanda/drive_by_wire">Drive By Wire System</a> | <img src="https://img.shields.io/badge/-C++-005571?&style-for-the-badge&logo=cplusplus&logoColor=white"/>|
+| <a href="https://github.com/MenakaGodakanda/hyrail-plc-project">Hyrail PLC System</a> | <img src="https://img.shields.io/badge/-C Programming-FF9900?&style-for-the-badge&logo=C&logoColor=white"/>|
+| <a href="https://github.com/MenakaGodakanda/NetworkTrafficAnalysis">Network Traffic Analysis</a> | <img src="https://img.shields.io/badge/-Tshark-005F73?&style-for-the-badge&logo=Wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/-Zeek-9E2A2B?&style-for-the-badge&logo=Zeek&logoColor=white"/> <img src="https://img.shields.io/badge/-Python-3572A5?&style-for-the-badge&logo=Python&logoColor=white"/>|
 
 
 
