@@ -21,8 +21,6 @@ I am a recent graduate with a profound interest in technology and dedication to 
 
 
 
-
-
 ## Certifications
 
 I am currently studying and preparing for the below certifications.
