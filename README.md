@@ -24,6 +24,7 @@ I am a recent graduate with a profound interest in technology and dedication to 
 | <a href="https://github.com/MenakaGodakanda/malware-analysis">Malware Analysis Project</a> | <img src="https://img.shields.io/badge/-Python-3572A5?&style-for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-PEfile-007ACC?&style-for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-Radare2-B20000?&style-for-the-badge&logo=resend&logoColor=white"/>
 | <a href="https://github.com/MenakaGodakanda/ASD_ISM_Project">ASD ISM Cybersecurity Project</a> | <img src="https://img.shields.io/badge/-Nmap-FFCC01?&style-for-the-badge&logo=OpenStreetMap&logoColor=white"/> <img src="https://img.shields.io/badge/-Lynis-E20612?&style-for-the-badge&logo=GNOME-Terminal&logoColor=white"/> <img src="https://img.shields.io/badge/-Shell-4EAA25?&style-for-the-badge&logo=GNU-Bash&logoColor=white"/>
 | <a href="https://github.com/MenakaGodakanda/security-automation">Security Automation Project</a> | <img src="https://img.shields.io/badge/-Python-3572A5?&style-for-the-badge&logo=python&logoColor=white"/>
+| <a href="https://github.com/MenakaGodakanda/network-troubleshooting-linux">Network Troubleshooting on Linux</a> | <img src="https://img.shields.io/badge/-Shell-4EAA25?&style-for-the-badge&logo=GNU-Bash&logoColor=white"/>
 
 
 
