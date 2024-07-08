@@ -26,6 +26,7 @@ I am a recent graduate with a profound interest in technology and dedication to 
 | <a href="https://github.com/MenakaGodakanda/security-automation">Security Automation Project</a> | <img src="https://img.shields.io/badge/-Python-3572A5?&style-for-the-badge&logo=python&logoColor=white"/>
 | <a href="https://github.com/MenakaGodakanda/network-troubleshooting-linux">Network Troubleshooting on Linux</a> | <img src="https://img.shields.io/badge/-Shell-4EAA25?&style-for-the-badge&logo=GNU-Bash&logoColor=white"/> <img src="https://img.shields.io/badge/-OSI Layers-1F6B75?&style-for-the-badge&logo=Openlayers&logoColor=white"/>
 | <a href="https://github.com/MenakaGodakanda/Security-Incident-Response-Playbooks">Security Incident Response Playbooks</a> | <img src="https://img.shields.io/badge/-Ansible-EE0000?&style-for-the-badge&logo=Ansible&logoColor=white"/> <img src="https://img.shields.io/badge/-Python-3572A5?&style-for-the-badge&logo=python&logoColor=white"/>
+| <a href="https://github.com/MenakaGodakanda/simple_honeytoken_system">Simple Honeytoken System</a> | <img src="https://img.shields.io/badge/-Python-3572A5?&style-for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-HTML-E34F26?&style-for-the-badge&logo=HTML5&logoColor=white"/>
 
 
 
