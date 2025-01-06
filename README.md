@@ -8,7 +8,7 @@ I am a recent graduate with a profound interest in technology and dedication to 
 | Project Name          | Associated Skills    |
 |----------------|-----------------------|
 | <a href="https://github.com/MenakaGodakanda/network-tracking">Network Tracking</a> | <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style-for-the-badge&logo=Wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/-Python-3572A5?&style-for-the-badge&logo=Python&logoColor=white"/>|
-| <a href="https://github.com/MenakaGodakanda/Home-lab-active-directory">Active Directory Home Lab</a> | <img src="https://img.shields.io/badge/-Oracle_Virtualbox-00A4EF?&style-for-the-badge&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/-Windows_Server-0078D7?&style-for-the-badge&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/-Powershell-5391FE?&style-for-the-badge&logo=Powershell&logoColor=white"/>|
+| <a href="https://github.com/MenakaGodakanda/Home-lab-active-directory">Active Directory Home Lab</a> | <img src="https://img.shields.io/badge/-Oracle_Virtualbox-00A4EF?&style-for-the-badge&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/-Windows_Server-0078D7?&style-for-the-badge&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/-Powershell-5391FE?&style-for-the-badge&logo=Accenture&logoColor=white"/>|
 | <a href="https://github.com/MenakaGodakanda/TrafficLightController">Traffic Light Controller</a> | <img src="https://img.shields.io/badge/-C Programming-A8B9CC?&style-for-the-badge&logo=C&logoColor=white"/>|
 | <a href="https://github.com/MenakaGodakanda/PIDControllerProject">PID Controller Project</a> | <img src="https://img.shields.io/badge/-C++-00599C?&style-for-the-badge&logo=cplusplus&logoColor=white"/>|
 | <a href="https://github.com/MenakaGodakanda/can_project">CAN Project</a> | <img src="https://img.shields.io/badge/-C Programming-A8B9CC?&style-for-the-badge&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/-C++-00599C?&style-for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/-CANopen-008C4A?&style-for-the-badge&logo=iMessage&logoColor=white"/> <img src="https://img.shields.io/badge/-CAN J1939-FF6600?&style-for-the-badge&logo=iMessage&logoColor=white"/>|
@@ -35,6 +35,11 @@ I am a recent graduate with a profound interest in technology and dedication to 
 | <a href="https://github.com/MenakaGodakanda/password-cracking-policies">Password Cracking Policies</a> | <img src="https://img.shields.io/badge/-Python-3572A5?&style-for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-John the Ripper-EE0000?&style-for-the-badge&logo=Cyberdefenders&logoColor=white"/> <img src="https://img.shields.io/badge/-Hashcat-000000?&style-for-the-badge&logo=Github&logoColor=white"/>
 | <a href="https://github.com/MenakaGodakanda/firewall-configuration">Comprehensive Firewall Configuration</a> | <img src="https://img.shields.io/badge/-Shell-4EAA25?&style-for-the-badge&logo=GNU-Bash&logoColor=white"/> <img src="https://img.shields.io/badge/-UFW-FF5B49?&style-for-the-badge&logo=Fireship&logoColor=white"/> <img src="https://img.shields.io/badge/-ClamAV-FF0000?&style-for-the-badge&logo=openbugbounty&logoColor=white"/> <img src="https://img.shields.io/badge/-Snort-F6A7AA?&style-for-the-badge&logo=Snort&logoColor=white"/> <img src="https://img.shields.io/badge/-Suricata-FF6A00?&style-for-the-badge&logo=protocolsdotio&logoColor=white"/> <img src="https://img.shields.io/badge/-Squid-23C8D2?&style-for-the-badge&logo=chainguard&logoColor=white"/>
 | <a href="https://github.com/MenakaGodakanda/GRC-Cybersecurity">Comprehensive GRC Tool</a> | <img src="https://img.shields.io/badge/-Python-3572A5?&style-for-the-badge&logo=python&logoColor=white"/>
+| <a href="https://github.com/MenakaGodakanda/SystemHealthCheck">System Health Check</a> | <img src="https://img.shields.io/badge/-Powershell-5391FE?&style-for-the-badge&logo=Accenture&logoColor=white"/>
+
+
+
+
 
 ## Certifications
 
