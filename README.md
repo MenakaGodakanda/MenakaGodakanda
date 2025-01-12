@@ -36,6 +36,7 @@ I am a recent graduate with a profound interest in technology and dedication to 
 | <a href="https://github.com/MenakaGodakanda/firewall-configuration">Comprehensive Firewall Configuration</a> | <img src="https://img.shields.io/badge/-Shell-4EAA25?&style-for-the-badge&logo=GNU-Bash&logoColor=white"/> <img src="https://img.shields.io/badge/-UFW-FF5B49?&style-for-the-badge&logo=Fireship&logoColor=white"/> <img src="https://img.shields.io/badge/-ClamAV-FF0000?&style-for-the-badge&logo=openbugbounty&logoColor=white"/> <img src="https://img.shields.io/badge/-Snort-F6A7AA?&style-for-the-badge&logo=Snort&logoColor=white"/> <img src="https://img.shields.io/badge/-Suricata-FF6A00?&style-for-the-badge&logo=protocolsdotio&logoColor=white"/> <img src="https://img.shields.io/badge/-Squid-23C8D2?&style-for-the-badge&logo=chainguard&logoColor=white"/>
 | <a href="https://github.com/MenakaGodakanda/GRC-Cybersecurity">Comprehensive GRC Tool</a> | <img src="https://img.shields.io/badge/-Python-3572A5?&style-for-the-badge&logo=python&logoColor=white"/>
 | <a href="https://github.com/MenakaGodakanda/SystemHealthCheck">System Health Check</a> | <img src="https://img.shields.io/badge/-Powershell-5391FE?&style-for-the-badge&logo=Accenture&logoColor=white"/>
+| <a href="https://github.com/MenakaGodakanda/genai-text-generator">GenAI Text Generator</a> | <img src="https://img.shields.io/badge/-OpenAI-412991?&style-for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/-Python-3572A5?&style-for-the-badge&logo=python&logoColor=white"/>
 
 
 
