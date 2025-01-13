@@ -37,6 +37,7 @@ I am a recent graduate with a profound interest in technology and dedication to 
 | <a href="https://github.com/MenakaGodakanda/GRC-Cybersecurity">Comprehensive GRC Tool</a> | <img src="https://img.shields.io/badge/-Python-3572A5?&style-for-the-badge&logo=python&logoColor=white"/>
 | <a href="https://github.com/MenakaGodakanda/SystemHealthCheck">System Health Check</a> | <img src="https://img.shields.io/badge/-Powershell-5391FE?&style-for-the-badge&logo=Accenture&logoColor=white"/>
 | <a href="https://github.com/MenakaGodakanda/genai-text-generator">GenAI Text Generator</a> | <img src="https://img.shields.io/badge/-OpenAI-412991?&style-for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/-Python-3572A5?&style-for-the-badge&logo=python&logoColor=white"/>
+| <a href="https://github.com/MenakaGodakanda/chatbot">GenAI Chatbot Project</a> | <img src="https://img.shields.io/badge/-OpenAI-412991?&style-for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/-Python-3572A5?&style-for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-Flask-29B5E8?&style-for-the-badge&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/-HTML-E34F26?&style-for-the-badge&logo=HTML5&logoColor=white"/>
 
 
 
