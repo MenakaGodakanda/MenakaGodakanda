@@ -44,7 +44,7 @@ I am a recent graduate with a profound interest in technology and dedication to 
 | <a href="https://github.com/MenakaGodakanda/house_price_prediction">House Price Prediction</a> | <img src="https://img.shields.io/badge/-Python-3572A5?&style-for-the-badge&logo=python&logoColor=white"/>
 | <a href="https://github.com/MenakaGodakanda/infectious-disease-models">Infectious Disease Modeling (SIR Model)</a> | <img src="https://img.shields.io/badge/-Python-3572A5?&style-for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-C++-00599C?&style-for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style-for-the-badge&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/-R-276DC3?&style-for-the-badge&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/-Java-000000?&style-for-the-badge&logo=openjdk&logoColor=white"/>
 | <a href="https://github.com/MenakaGodakanda/malaria-simulator">Malaria Epidemiology Simulator</a> | <img src="https://img.shields.io/badge/-Python-3572A5?&style-for-the-badge&logo=python&logoColor=white"/>
-
+| <a href="https://github.com/MenakaGodakanda/blockchain-project">Simple Blockchain Project</a> | <img src="https://img.shields.io/badge/-Python-3572A5?&style-for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-Flask-29B5E8?&style-for-the-badge&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/-HTML-E34F26?&style-for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style-for-the-badge&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/-Jinja-B41717?&style-for-the-badge&logo=Jinja&logoColor=white"/>
 
 
 
