@@ -53,8 +53,7 @@ I am a recent graduate with a profound interest in technology and dedication to 
 | <a href="https://github.com/MenakaGodakanda/data-science-project">Data Science Project</a> | <img src="https://img.shields.io/badge/-Python-3572A5?&style-for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-jupyter-F37626?&style-for-the-badge&logo=jupyter&logoColor=white"/>
 | <a href="https://github.com/MenakaGodakanda/quantum_rng">Quantum Random Number Generator</a> | <img src="https://img.shields.io/badge/-Python-3572A5?&style-for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-Qiskit-6929C4?&style-for-the-badge&logo=qiskit&logoColor=white"/>
 | <a href="https://github.com/MenakaGodakanda/QuantumTicTacToe">Quantum Tic-Tac-Toe</a> | <img src="https://img.shields.io/badge/-Python-3572A5?&style-for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-Qiskit-6929C4?&style-for-the-badge&logo=qiskit&logoColor=white"/>
-
-
+| <a href="https://github.com/MenakaGodakanda/Autonomous-Vehicle-Communication">Simple Autonomous Vehicle Communication System</a> | <img src="https://img.shields.io/badge/-C++-00599C?&style-for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/-Python-3572A5?&style-for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-CAN Protocol-FF6600?&style-for-the-badge&logo=iMessage&logoColor=white"/>
 
 
 
